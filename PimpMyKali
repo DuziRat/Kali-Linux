@@ -1,0 +1,8 @@
+# Many thanks to Dewalt-arch
+# https://github.com/Dewalt-arch/
+# May my journey be long and interesting
+rm -rf pimpmykali/
+git clone https://github.com/Dewalt-arch/pimpmykali
+cd pimpmykali
+sudo ./pimpmykali.sh
+For a new kali vm, run menu option N
