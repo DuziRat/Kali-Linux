@@ -7,6 +7,6 @@ rm -rf pimpmykali/
 git clone https://github.com/Dewalt-arch/pimpmykali
 cd pimpmykali
 sudo ./pimpmykali.sh
-For a new kali vm, run menu option N
+# For a new kali vm, run menu option N
 # Script is now be executable upon clone (perms: 755 rwxr-xr-x added to github)
 # There is no need to chmod +x pimpmykali.sh upon git clone
